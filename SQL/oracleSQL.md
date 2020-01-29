@@ -1,5 +1,6 @@
 # Oracle Basics
 
+
 ### Operators
 
 | Operator | Result |
