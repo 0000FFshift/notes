@@ -4,7 +4,8 @@
 
 | Operator | Result |
 | --- | --- |
-| `!` | Not |
+| `!=` | Not Equal |
+| `=` | Equal |
 | `<` | Less Than |
 | `>` | Greater Than |
 | `<=` | Less Than or Equal To |
