@@ -3,12 +3,16 @@
 
 ### Operators
 
-| Operator | Result |
+| Operator | Description |
 | --- | --- |
-| `!=` | Not Equal |
+| `!=`, `<>` | Not Equal |
 | `=` | Equal |
 | `<` | Less Than |
 | `>` | Greater Than |
 | `<=` | Less Than or Equal To |
 | `>=` | Greater Than or Equal To |
+| `IN` | Equal |
+| `NOT IN` | Equal |
+| `BETWEEN` | Equal |
+| `NOT BETWEEN` | Equal |
 
