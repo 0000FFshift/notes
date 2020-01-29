@@ -1,8 +1,12 @@
 # Oracle Basics
 
-## Operators
-```
-! not
-< less than
-> greater than
-```
+### Operators
+
+| Operator | Result |
+| --- | --- |
+| `!` | Not |
+| `<` | Less Than |
+| `>` | Greater Than |
+| `<=` | Less Than or Equal To |
+| `>=` | Greater Than or Equal To |
+
